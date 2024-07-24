@@ -6,10 +6,10 @@ import { AppRouterCacheProvider } from "@mui/material-nextjs/v14-appRouter"
 import { GoogleTagManager } from '@next/third-parties/google'
 import Theme from "common/ui/theme/index"
 
-const APP_NAME = "Dump Fun";
-const APP_DEFAULT_TITLE = "Dump Fun";
+const APP_NAME = "Pumpfun";
+const APP_DEFAULT_TITLE = "Pumpfun";
 const APP_TITLE_TEMPLATE = "%s - PWA App";
-const APP_DESCRIPTION = "Dump Fun for pumpfun";
+const APP_DESCRIPTION = "Pumpfun for pumpfun";
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
@@ -50,7 +50,7 @@ export const viewport: Viewport = {
   themeColor: [
     { media: "(prefers-color-scheme: dark)", color: "#2D2D2D" },
     { media: "(prefers-color-scheme: light)", color: "#1976d2" }
-   ],
+  ],
 };
 
 type Props = PropsWithChildren
