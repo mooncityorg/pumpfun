@@ -1,5 +1,5 @@
-# pumpfun
-Tools for pump.fun
+# PUMPFUN
+Tools for pump.fun and lists of Meme
 
 ## Features
 - List pumpfun tokens which to be complete
@@ -17,13 +17,3 @@ Tools for pump.fun
   <img src="https://cdn.jsdelivr.net/gh/evolify/files/img/202404231034289.PNG" alt="dark" width="49%">
 </div>
 
-
-<center>
-  <img src="https://cdn.jsdelivr.net/gh/evolify/files/img/202404231036353.png">
-</center>
-
-## TODO
-- [x] Improve loading speed
-- [x] Support Bonkbot、Pepeboost、GMGN Sniper Bot
-- [ ] Add some filter options
-- [ ] Show more info
