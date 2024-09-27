@@ -10,10 +10,3 @@ Tools for pump.fun and lists of Meme
 - Support Mobile and PC, Light and Dark Mode
 - Support PWA, Add it to desktop for better experience
 
-## Screenshots
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/evolify/files/img/202404231034287.PNG" alt="light" width="49%">
-  <img src="https://cdn.jsdelivr.net/gh/evolify/files/img/202404231034289.PNG" alt="dark" width="49%">
-</div>
-
